@@ -11,6 +11,7 @@ export const color={
     lightYellow: "#ede7dc",
     darkPink: "#e48981",
     characterYellow: "#ffe097",
+    pink: "#f6c3c1",
 };
 
 export const theme = {
@@ -25,4 +26,7 @@ export const theme = {
     toggleFalse: color.grey,
     toggleThumb: color.white,
     characterYellow: color.characterYellow,
+    diaryborder : color.pink,
+    monthcolor: color.pink,
+    modalpink : color.pink
 };

@@ -24,6 +24,11 @@ import mapMarker from "./assets/images/main/mapMarker.png";
 import currentMarker from "./assets/images/main/currentMarker.png";
 import back from "./assets/images/main/back.png";
 import otherProfile from "./assets/images/main/otherProfile.png";
+import CalendarBorder from './assets/images/calendar/CalendarBorder.png';
+import NovDrawing from './assets/images/calendar/NovDrawing.png';
+import notselected from './assets/images/calendar/notselected.png';
+import calendarpic from './assets/images/calendar/calendarpic.png';
+import calendarcontent from './assets/images/calendar/calendarcontent.png';
 
 export const images = {
     redCharacter,
@@ -52,4 +57,9 @@ export const images = {
     currentMarker,
     back,
     otherProfile,
+    CalendarBorder,
+    NovDrawing,
+    notselected,
+    calendarpic,
+    calendarcontent,
 };
