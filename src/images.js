@@ -34,6 +34,8 @@ import diaryborder from './assets/images/diary/diaryborder.png';
 import emotionadd from './assets/images/diary/emotionadd.png';
 import diaryicon from './assets/images/diary/diaryicon.png';
 import diaryedit from './assets/images/diary/diaryedit.png';
+import placeadd from './assets/images/diary/placeadd.png';
+
 
 
 
@@ -74,4 +76,5 @@ export const images = {
     emotionadd,
     diaryedit,
     diaryicon,
+    placeadd
 };
