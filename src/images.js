@@ -29,6 +29,13 @@ import NovDrawing from './assets/images/calendar/NovDrawing.png';
 import notselected from './assets/images/calendar/notselected.png';
 import calendarpic from './assets/images/calendar/calendarpic.png';
 import calendarcontent from './assets/images/calendar/calendarcontent.png';
+import mapversion from './assets/images/mapversion.png';
+import diaryborder from './assets/images/diary/diaryborder.png';
+import emotionadd from './assets/images/diary/emotionadd.png';
+import diaryicon from './assets/images/diary/diaryicon.png';
+import diaryedit from './assets/images/diary/diaryedit.png';
+
+
 
 export const images = {
     redCharacter,
@@ -62,4 +69,9 @@ export const images = {
     notselected,
     calendarpic,
     calendarcontent,
+    mapversion,
+    diaryborder,
+    emotionadd,
+    diaryedit,
+    diaryicon,
 };

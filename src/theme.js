@@ -12,6 +12,9 @@ export const color={
     darkPink: "#e48981",
     characterYellow: "#ffe097",
     pink: "#f6c3c1",
+    grey: "#eaeaea",
+    ppink:"#ffc1c0",
+    pale: "#ffd4d4",
 };
 
 export const theme = {
@@ -28,5 +31,8 @@ export const theme = {
     characterYellow: color.characterYellow,
     diaryborder : color.pink,
     monthcolor: color.pink,
-    modalpink : color.pink
+    modalpink : color.pink,
+    greybutton: color.grey,
+    pinkbutton: color.ppink,
+    diaryadd: color.pale,
 };
